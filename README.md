@@ -7,7 +7,7 @@ I'm André Feitosa from Brazil!
 
 Here are some informations to start to know me:
 
-- 🔭 I’m looking for a migration to Data Analysis area
+- 🔭 I’m looking for a migration to Data Analysis / Data Science area
 - 🌱 I’m currently learning Python, SQL and Power BI
 - 💼 I have a lot of experience in Sales and managing Sales teams
 - 📫 How to reach me: Send me an [Email](mailto:andrefeitosa9@gmail.com.br) or DM me on [LinkedIn](www.linkedin.com/in/andrefeitosa)
