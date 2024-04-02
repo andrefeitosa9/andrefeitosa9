@@ -4,7 +4,7 @@ I'm André Feitosa from Brazil!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/andrefeitosa)](www.linkedin.com/in/andrefeitosa)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrefeitosa9@gmail.com)](mailto:andrefeitosa9@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/@username-black?style=flat-squarte&logo=medium&logoColor=white&link=https://medium.com/@username)](https://medium.com/@username)
+[![Medium Badge](https://img.shields.io/badge/@andrefeitosa9-black?style=flat-squarte&logo=medium&logoColor=white&link=https://medium.com/@andrefeitosa9)](https://medium.com/@andrefeitosa9)
 
 Here are some informations to start to know me:
 
