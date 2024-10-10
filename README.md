@@ -1,6 +1,19 @@
-### Hi there 👋
+### Opa, tudo bem?👋
 
-I'm André Feitosa from Brazil! 
+Sou André Feitosa de Fortaleza - Ceará e estou em tansição para Ciência de Dados!
+
+Nesse GitHub você vai encontrar meus projetos e repositórios de estudos. Os mais legais, até agora, são:
+- Modelo de detecção de fraude em leilão - Hackathon da Formação completa em Ciência de Dados
+- Sistema de recomendação - Produtos Amazon - _em desenvolvimento_
+- Análise do impacto da mudança de liderança - Brasileirão 2023 - Web Scraping e Teste de Hipótesees 
+- Sistema CRUD - Banco - Projeto Módulo Lógica de Programação II Santander Coders - Ada Tech
+- Modelagem e manipulação de banco de dados - Case Restaurante - Projeto Módulo Banco de Dados I Santander Coders - Ada Tech
+
+Algumas das ferramentas que já trabalhei e tenho familiaridade:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) | ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![Pandas](	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) | ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly) | ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter) | 
+
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/andrefeitosa)](www.linkedin.com/in/andrefeitosa)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrefeitosa9@gmail.com)](mailto:andrefeitosa9@gmail.com)
