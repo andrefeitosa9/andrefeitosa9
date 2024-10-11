@@ -1,6 +1,6 @@
 ### Opa, tudo bem?👋
 
-Sou André Feitosa de Fortaleza - Ceará, tenho mais de 11 anos de experiência em finanças, vendas, gestão e futebol e agora estou em transição para **Ciência de Dados**!
+Sou André Feitosa, tenho mais de 11 anos de experiência em finanças, vendas, gestão e futebol e agora estou em transição para **Ciência de Dados**!
 
 Nesse GitHub você vai encontrar meus **projetos** e **repositórios de estudos**. Os mais legais, até agora, são:
 - Modelo de detecção de fraude em leilão - Hackathon da Formação completa em Ciência de Dados [repositório-aqui](https://github.com/andrefeitosa9/Deteccao-Fraude-Hackathon-FCCD)
