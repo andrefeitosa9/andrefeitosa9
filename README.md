@@ -40,7 +40,7 @@ Mais postagens e informações no meu Linkedin!
 
 **Escola da Nuvem - Fundamentos em Tecnologia e Computação na Nuvem** - AWS - Em andamento - **Previsão de conclusão: Novembro/2024**
 
-## Posso me comunicar em / I can speak / Puedo comunicarme en::
+## Posso me comunicar em / I can speak / Puedo comunicarme en:
 
 - <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="20"/> Português (Brasil)
 - <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Estados Unidos" width="20"/> English (United States)
