@@ -42,9 +42,9 @@ Mais postagens e informações no meu Linkedin!
 
 ## Posso me comunicar em / I can speak / Puedo comunicarme en:
 
-- <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="20"/> Português (Brasil)
-- <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Estados Unidos" width="20"/> English (United States)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Espanha" width="20"/> Español (España)
+- <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="20"/> Português
+- <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Estados Unidos" width="20"/> English
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Espanha" width="20"/> Español
 
 
 
