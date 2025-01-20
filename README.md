@@ -2,7 +2,7 @@
 
 ### Opa, tudo bem?👋
 
-Sou André Feitosa, atualmente em **Ciência de Dados** e com mais de 11 anos de experiência em finanças, vendas, gestão e futebol.
+Sou André Feitosa, atuo em **Ciência de Dados** e tenhho mais de 11 anos de experiência em finanças, vendas, gestão e futebol.
 
 Nesse GitHub você vai encontrar meus **projetos** e **repositórios de estudos**. 
 
