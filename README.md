@@ -7,7 +7,7 @@ Sou André Feitosa, atuo em **Ciência de Dados** e tenho mais de 11 anos de exp
 Nesse GitHub você vai encontrar meus **projetos** e **repositórios de estudos**. 
 
 ## 📈 Os mais legais até agora, são:
-- Sistema de recomendação de jogadores - Baseado em KNN e Similaridade de Cosseno - [repositório-aqui](https://github.com/andrefeitosa9/sistema-recomendacao-fifa24)
+- Sistema de recomendação de jogadores - Baseado em KNN e Similaridade de Cosseno - Deploy feito com Streamlit - [website-aqui](https://huggingface.co/spaces/andrefeitosa9/recommendation-system-fifa24) - [repositório-aqui](https://github.com/andrefeitosa9/sistema-recomendacao-fifa24)
 - Análise do impacto da mudança de liderança - Brasileirão 2023 - Web Scraping e Teste de Hipóteses [repositório-aqui](https://github.com/andrefeitosa9/teste-hipotese-brasileirao)
 - Modelo de detecção de fraude em leilão - Hackathon da Formação completa em Ciência de Dados [repositório-aqui](https://github.com/andrefeitosa9/Deteccao-Fraude-Hackathon-FCCD)
 - Modelagem e manipulação de banco de dados - SQL - _em desenvolvimento_ - Ada Tech  [repositório-aqui](https://github.com/andrefeitosa9/banco-dados-restaurante)
